@@ -1,6 +1,6 @@
 healthcare_vocabulary = {
     "Läkare": ["doctor", "doktron", "doktorn", "doktor", "läkare"],
-    "Sjuksköterska": ["skj", "sjuksyster", 'diskriktsköterskorna', 'diskriktsköterska'],
+    "Sjuksköterska": ["skj", "sjuksyster", 'diskriktsköterskorna', 'diskriktsköterska', 'sjuksköterskan'],
     "Läkemedel": ["medicin", 'mediciner', 'medicinering', 'medicinerna', 'medicinlista',
                   'medicinutdelning', 'morfinplåster', 'recept', 'läkemedel', 'antibiotika', 'antibiotikas'],
     "Hemtjänst": ['hemtjänst', 'hemtjänsten'],

@@ -12,8 +12,10 @@ def home():
 
 @app.post("/categorize/healthcare", response_model=Response)
 async def categorize(request_data: Request):
+    print(request_data.input)
     try:
         output = categorize(request_data.input, healthcare_vocabulary)
+        print(output)
         return Response(output = output)
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
