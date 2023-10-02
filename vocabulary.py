@@ -1,5 +1,5 @@
 healthcare_vocabulary = {
-    "Läkare": ["doctor", "doktron", "doktorn", "doktor", "läkare"],
+    "Läkare": ["doctor", "doktron", "doktorn", "doktor", "läkare", "läkaren"],
     "Sjuksköterska": ["skj", "sjuksyster", 'diskriktsköterskorna', 'diskriktsköterska', 'sjuksköterskan'],
     "Läkemedel": ["medicin", 'mediciner', 'medicinering', 'medicinerna', 'medicinlista',
                   'medicinutdelning', 'morfinplåster', 'recept', 'läkemedel', 'antibiotika', 'antibiotikas'],
@@ -28,3 +28,5 @@ golf_vocabulary = {
                  "vaktmästaren", "klubbägaren", "klubbägare", "ägaren", "ägare", "skötsel", "bemötande",
                  "bemött", "bemöta", "bemötta", "anställd", "anställda", "igenkännd"]
 }
+
+
